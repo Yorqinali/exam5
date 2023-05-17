@@ -1,0 +1,55 @@
+.products-card {
+  width: 400px;
+  height: 435px;
+  background: #ffffff;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+}
+.cards-img {
+  width: 400px;
+  height: 300px;
+  border-radius: 15px 15px 0px 0px;
+}
+.zefir-h3 {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
+  color: #3a3a3a;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.zefir-text {
+  display: flex;
+  margin-top: 29px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.zefir-texts {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  color: #bababa;
+  margin-right: 251px;
+}
+.zefir-number {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  color: #bababa;
+}
+.eye-icon {
+  width: 20px;
+  height: 20px;
+  margin-left: 5.83px;
+}

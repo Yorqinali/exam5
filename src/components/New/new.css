@@ -1,0 +1,63 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.novinki {
+  display: flex;
+  align-items: center;
+}
+.yangi-p {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 33px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.1em;
+  color: #3a3a3a;
+  margin-right: 1153px;
+}
+.desert{
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 33px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.1em;
+  color: #3a3a3a;
+  margin-right: 1001px;
+}
+.trad-p{
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 33px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.1em;
+  color: #3a3a3a;
+  margin-right: 997px;
+}
+.vse {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 33px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #3a3a3a;
+  margin-right: 8.25px;
+}
+.arrowright{
+  width: 6.19px;
+  height: 12.38px;
+  margin-top: -4px;
+}
+  

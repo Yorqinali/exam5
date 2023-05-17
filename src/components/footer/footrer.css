@@ -1,0 +1,147 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.footer {
+  max-width: 1312px;
+  width: 100%;
+  height: 342px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+.tab {
+  display: flex;
+  list-style: none;
+}
+.tab2 {
+  list-style: none;
+
+  margin-right: 150px;
+}
+.tab3 {
+  list-style: none;
+}
+.footer-h2 {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  display: flex;
+  align-items: center;
+  color: #3a3a3a;
+  margin: 0;
+  margin-bottom: 40px;
+}
+.footer-li {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  color: #3a3a3a;
+  margin-bottom: 20px;
+}
+.footer-inp {
+  width: 272px;
+  height: 48px;
+  background: #f5f5f5;
+  border-radius: 5px;
+  border: 0;
+  padding-left: 10px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.footer-btn {
+  width: 48px;
+  height: 48px;
+  background: #bababa;
+  border-radius: 5px;
+  border: 0;
+}
+.footer-p {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #bababa;
+  margin-bottom: 30px;
+}
+.social-media {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 16px;
+}
+.footer-str {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  display: flex;
+  align-items: center;
+  color: #3a3a3a;
+  margin-bottom: 5px;
+}
+.footer-sp {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex;
+  align-items: center;
+  color: #3a3a3a;
+}
+.kontact-p {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #3a3a3a;
+  margin: 0;
+  margin-top: 5px;
+}
+.kontact-sp {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex;
+  align-items: center;
+  text-decoration-line: underline;
+  color: #3a3a3a;
+}
+.kontact-spa {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex;
+  align-items: center;
+  text-decoration-line: underline;
+  color: #3a3a3a;
+  margin: 0;
+  margin-bottom: 30px;
+}
+.end {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #3a3a3a;
+}

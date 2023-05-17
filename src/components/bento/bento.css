@@ -1,0 +1,33 @@
+.bento {
+  width: 1320px;
+  height: 435px;
+  background: #f4ebcf;
+  margin: 0 auto;
+  display: flex;
+  padding-left: 220px;
+  margin-bottom: 100px;
+}
+.text {
+  width: 60%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.bento-t {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 450;
+  font-size: 80px;
+  line-height: 103px;
+  display: flex;
+  align-items: center;
+  color: #3a3a3a;
+  margin-right: 100px;
+}
+.bento-img{
+  width: 40%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

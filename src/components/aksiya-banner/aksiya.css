@@ -1,0 +1,42 @@
+.aksiya {
+  width: 1320px;
+  height: 435px;
+  background: #f4ebcf;
+  margin: 0 auto;
+  display: flex;
+  padding-left: 30px;
+  margin-bottom: 100px;
+}
+.aksiya-text{
+  width: 60%;
+  height: 100%;
+}
+.aksiya-p {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 44px;
+  display: flex;
+  align-items: center;
+  color: #3a3a3a;
+  margin-top: 27px;
+  margin-bottom: 60px;
+}
+.aksiya-h1 {
+  font-family: "Futura PT";
+  font-style: normal;
+  font-weight: 450;
+  font-size: 60px;
+  line-height: 77px;
+  display: flex;
+  align-items: center;
+  color: #3a3a3a;
+}
+.aksiya-img{
+  width: 40%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
